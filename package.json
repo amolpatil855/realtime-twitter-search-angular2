@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "tsc": "tsc",
-    "start": "npm run tsc && live-server --open=/",
-    "postinstall": "typings install"
+    "start": "npm run tsc && live-server --open=/"
   },
   "keywords": [],
   "author": "",
